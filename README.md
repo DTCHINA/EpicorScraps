@@ -6,4 +6,4 @@ To keep things somewhat organized, please create a new folder for each of your s
 
 Please try to use descriptive names, and include a readme.md file in your folder briefly describing what your submission does.
 
-PLEASE DO NOT FORK FOR CONTRIBUTIONS; Instead, email me and request an invite to collaborate. This will make browsing much easier for all of us. Thanks!
+PLEASE DO NOT FORK FOR CONTRIBUTIONS; Instead, email me (jeff.johnson@acti.aero) and request an invite to collaborate. This will make browsing much easier for all of us. Thanks!
